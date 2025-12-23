@@ -1,3 +1,2 @@
 Sample 123 from VS code
 Sample deleted from git
-Sample file modified from git hub
