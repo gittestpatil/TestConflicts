@@ -1,1 +1,2 @@
+Sample 123 from VS code
 Sample deleted from git
